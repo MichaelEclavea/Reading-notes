@@ -2,7 +2,8 @@
 ###*This website contains daily reading notes associated with HTML&CSS and JavaScript assignment books. 
 
 
-##Day 1 
+##Day 1 ###(Class-01.md):
+
 
 ##Day 2
 
