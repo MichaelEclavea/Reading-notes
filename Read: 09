@@ -1,1 +1,36 @@
 # Read: 09 - Forms & JS Events
+
+A way of collecting user data is forms. 
+Google home page, the search bar is an example of collecting user data/input.
+
+Text inputs
+Password inputs
+Radio buttons
+check boxes          ## Just a handful of examples to collect information from users
+submit buttons
+dropdown boxes
+___________________
+
+A form is first collected from the user then sent to a server. The server then processes the information and 
+eigther stores it or sends back what the user requested. 
+
+# Chapter 14: 
+
+This chapter just talks about table, lists and forms. 
+
+lists and forms.
+<ul> unordered lists
+<ol> unordered lists
+<li> line data
+    
+    Table is essentially what we already read before and learned
+
+    # Chapter 6: JS Events
+
+    Events are how the browser knows something has happened. 
+
+    Event handlers and listeners are functions that add function and response.
+
+    There are addEventListener, click events, user interface events, keybaord events, form events, etc. 
+    We are able to get elements as well.,
+    Binding is the term used to create a function that waits for a specific event. 
