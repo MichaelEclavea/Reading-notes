@@ -6,3 +6,4 @@
 
 - [Day 2](Class-02.md):
 
+- [Day 10](Class-10.md):
