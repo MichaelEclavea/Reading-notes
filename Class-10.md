@@ -1,4 +1,4 @@
-# Chapter 10: "Error Handling and Debuggin"
+# Chapter 10: "Error Handling and Debugging"
 
 If variables are created in a function, the variable is only known within that function. 
 if A variable is created outside a function, it is called a global scope. It can be used and calley anytime globally. 
