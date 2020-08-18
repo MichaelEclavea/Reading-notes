@@ -7,11 +7,11 @@ center images by turning them into block elements. (display: block;)
 two ways to center text-align in parent container.
 On the image itself, set margin left and right to auto
 
-Background Images can be set in CSS
+Background images can be set in CSS
 background images has a repeat sub categories.
 repeat: y; vertically repeat
-repeat: x; horizontally repeat
-fixed: position is fixed
+repeat: x; Horizontally repeat
+fixed: Position is fixed
 scroll: moves with scrolling
 no repeat:
 
