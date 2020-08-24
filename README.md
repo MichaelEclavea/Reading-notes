@@ -14,5 +14,5 @@
 
 - [Day 13](Class-14b.md):
 
-- [Day 13](Read-13.md):
+- [Read:13](Local-Storage.md):
 
