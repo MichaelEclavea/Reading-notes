@@ -14,5 +14,5 @@
 
 - [Day 13](Class-14b.md):
 
-- [Read: 13]Class-13.md):
+- [Read: 13](Class-13.md):
 
