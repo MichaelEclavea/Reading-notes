@@ -13,3 +13,6 @@
 - [Day 12](Class-12.md):
 
 - [Day 13](Class-14b.md):
+
+- [Day 13](Read: 13.md):
+
