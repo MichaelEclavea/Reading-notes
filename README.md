@@ -1,6 +1,7 @@
-# - Code 201 Reading Notes -
-### This website contains daily reading notes associated with HTML&CSS and JavaScript assignment books. 
+#  Code 201 Reading Notes 
+## This website contains daily reading notes associated with HTML&CSS and JavaScript assignment books. 
 
+### Code 201 - Foundations of Software Development
 
 - [Day 1](Class-01.md):
 
@@ -18,3 +19,4 @@
 
 - [Read: 13](Class-13.md):
 
+### Code 301 - Intermediate Software Development
