@@ -22,5 +22,5 @@
 # Code 301  Reading Notes
 ### Intermediate Software Development
 
-- [Read: 01] (SMACSS and Responsive Web Design):
+- [Read: 01](SMACSS and Responsive Web Design):
 
