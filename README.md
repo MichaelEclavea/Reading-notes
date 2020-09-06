@@ -19,4 +19,8 @@
 
 - [Read: 13](Class-13.md):
 
-### Code 301 - Intermediate Software Development
+# Code 301  Reading Notes
+### Intermediate Software Development
+
+- [Read: 01] (SMACSS and Responsive Web Design):
+
