@@ -1,2 +1,15 @@
 # API's - Reading: Rest
 
+### Google's Discovery
+
+A Harvard business review has discovered that in the last 20 years a 50% increase of collaberative work between managers and employees have shot up to 3 quarters of their day at work. 
+In Silicon Valley, software engineers work more as a team due to the better quality of work that comes out. 
+In response to finding out the ins and outs of what makes a good team, Google has spent an untold estimation of countless millions of dollarsto study the live of their emplployees. This si to determine what makes some teams better than others. 
+This study would be called 'Project Aristotle'. It lasteed a little over a year with engineers, data analysts, statistician's and psycologist's. For going on over a year, Aristotle had no luck in determining what made some teams better than others. 
+From studies conducted with a team with professional high IQ team members vs a team that relaxed a bit more and with better team sensitivity. Studies had shown that the teams that performed better was the team with higher member to member sensitivity. This team was not stressed about competition or who was the leader. They collaberated in a way that was enthusiastic toward eachothers views and opinions. This non competitive environment opened team members to open up more and express their opinions in an open and safe environment. 
+
+## Rest
+
+Rest stands for Representational State Transfer. 
+
+It is a software architectural style that defines a set of constraints to be used for creating Web services. It is a way for two or more computers to communicate over HTTP.
