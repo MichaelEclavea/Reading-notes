@@ -34,7 +34,7 @@
 
 - [Read: 07](APIs-continued.md):
 
-- [Read: 08](Read:08_SQL.md):
+- [Read: 08](SQL.md):
 
 - [Read: 09](Refactoring.md):
 
