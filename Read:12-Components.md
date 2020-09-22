@@ -1,7 +1,7 @@
-Read: 12 - Components
+# Read: 12 - Components
 
 
-# EJS PARTIALS
+## EJS PARTIALS
 
 EJS Partials are just reusable templates or code that is used across multiple pages. 
 To implement this, we first create a partials directory inside our views directory. Next We create a nabar.ejs file which holds the nab bar for our html file. 
