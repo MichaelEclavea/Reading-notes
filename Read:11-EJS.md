@@ -1,4 +1,6 @@
-# Read:11 - Components
+
+# Read:11 - EJS
+
 
 Partials are just reusable components, snippets of ejs that can be used in multiple places. 
 
