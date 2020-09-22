@@ -1,4 +1,4 @@
-# Read:11 - Components
+# Read:11 - EJS
 
 Partials are just reusable components, snippets of ejs that can be used in multiple places. 
 
@@ -20,7 +20,6 @@ to place partials instead of inside line input.  This partials route to route or
 
 Refer to EJS cheat sheet!
 https://ejs.co/
-
 Tags
 •	<% 'Scriptlet' tag, for control-flow, no output
 •	<%_ ‘Whitespace Slurping’ Scriptlet tag, strips all whitespace before it
