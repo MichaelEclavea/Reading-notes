@@ -46,4 +46,6 @@
 
 - [Read: 13](update-delete.md):
 
+- [Read: 14](DB-Normalization.md):
+
 
