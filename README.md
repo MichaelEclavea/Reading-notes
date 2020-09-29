@@ -48,4 +48,5 @@
 
 - [Read: 14](DB-Normalization.md):
 
+- [Read: 15](Diversity-Inclusion.md):
 
