@@ -23,7 +23,7 @@
 # Code 301  Reading Notes
 ### Intermediate Software Development
 
-- [Read: 01](Read-01.md): 
+- [Read: 01](Read-01.md): ##### SMACSS & Responsive Web Design
 
 - [Read: 02](Mustache-&-FlexBox.md): ##### Mustache & FlexBox
 
