@@ -10,6 +10,8 @@
 
 - [Read: 05](Read-05.md): Images, Color & Text
 
+- [Read: 07](JS-constructor-functions.md): JavaScript Constructor Functions
+
 - [Read: 08](css-layout.md): CSS Layout
 
 - [Read: 10](Class-10.md): Error Handling & Debugging
