@@ -10,6 +10,8 @@
 
 - [Read: 05](Read-05.md): Images, Color & Text
 
+- [Read: 08](css-layout.md): CSS Layout
+
 - [Read: 10](Class-10.md): Error Handling & Debugging
 
 - [Read: 11](Class-11.md): Audo, Video & Images
