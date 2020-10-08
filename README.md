@@ -4,21 +4,21 @@
 # Code 201 Reading Notes 
 ### Foundations of Software Development
 
-- [Read: 01](Class-01.md):
+- [Read: 01](Class-01.md): HTML & CSS
 
-- [Read: 02](Class-02.md):
+- [Read: 02](Class-02.md): 
 
-- [Read: 05](Read-05.md): 
+- [Read: 05](Read-05.md): Images, Color & Text
 
-- [Read: 10](Class-10.md):
+- [Read: 10](Class-10.md): Error Handling & Debugging
 
 - [Read: 11](Class-11.md):
 
-- [Read: 12](Class-12.md):
+- [Read: 12](Class-12.md): Transform, Transitions and Animations
 
-- [Read: 13](Class-13.md):
+- [Read: 13](Class-13.md): Local Storage
 
-- [Read: 14](Class-14b.md):
+- [Read: 14](Class-14b.md): Google Group Study
 
 
 # Code 301  Reading Notes
