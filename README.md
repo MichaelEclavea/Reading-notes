@@ -1,7 +1,8 @@
-#  Code 201 Reading Notes 
+#  CodeFellows Reading Notes 
 ## This website contains daily reading notes associated with HTML&CSS and JavaScript assignment books. 
 
-### Code 201 - Foundations of Software Development
+# Code 201 Reading Notes 
+### Foundations of Software Development
 
 - [Day 1](Class-01.md):
 
