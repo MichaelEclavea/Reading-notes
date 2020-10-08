@@ -51,3 +51,7 @@
 
 - [Read: 15](Diversity-Inclusion.md): Diverstiy & Inclusion
 
+# Code 401 Reading Notes
+## Advanced Software Development
+
+
