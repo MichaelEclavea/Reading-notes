@@ -23,31 +23,31 @@
 # Code 301  Reading Notes
 ### Intermediate Software Development
 
-- [Read: 01](Read-01.md): ##### SMACSS & Responsive Web Design
+- [Read: 01](Read-01.md): SMACSS & Responsive Web Design
 
-- [Read: 02](Mustache-&-FlexBox.md): ##### Mustache & FlexBox
+- [Read: 02](Mustache-&-FlexBox.md): Mustache & FlexBox
 
-- [Read: 04](Responsive-Web-Design.md): ##### Responsive Web Design
+- [Read: 04](Responsive-Web-Design.md): Responsive Web Design
 
-- [Read: 05](Heroku.md): ##### Heroku
+- [Read: 05](Heroku.md): Heroku
 
-- [Read: 06](Node.js.md): ##### Node.js
+- [Read: 06](Node.js.md): Node.js
 
-- [Read: 07](APIs-continued.md): ##### API's
+- [Read: 07](APIs-continued.md): API's
 
-- [Read: 08](SQL.md): ##### SQL
+- [Read: 08](SQL.md): SQL
 
-- [Read: 09](Refactoring.md): ##### Refactoring
+- [Read: 09](Refactoring.md): Refactoring
 
-- [Read: 10](The_Call_Stack.md): ##### The Call Stack
+- [Read: 10](The_Call_Stack.md): The Call Stack
 
-- [Read: 11](EJS.md): ##### EJS
+- [Read: 11](EJS.md): EJS
 
-- [Read: 12](Components.md): ##### Components
+- [Read: 12](Components.md): Components
 
-- [Read: 13](update-delete.md): ##### Update & Delete
+- [Read: 13](update-delete.md): Update & Delete
 
-- [Read: 14](DB-Normalization.md): ###### DataBase Normalization
+- [Read: 14](DB-Normalization.md):  DataBase Normalization
 
 - [Read: 15](Diversity-Inclusion.md): Diverstiy & Inclusion
 
