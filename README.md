@@ -49,5 +49,5 @@
 
 - [Read: 14](DB-Normalization.md): ###### DataBase Normalization
 
-- [Read: 15](Diversity-Inclusion.md): ##### Diverstiy & Inclusion
+- [Read: 15](Diversity-Inclusion.md): Diverstiy & Inclusion
 
