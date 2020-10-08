@@ -6,7 +6,7 @@
 
 - [Read: 01](Class-01.md): HTML & CSS
 
-- [Read: 02](Class-02.md): 
+- [Read: 02](Class-02.md): Basics of HTML, CSS & JS
 
 - [Read: 05](Read-05.md): Images, Color & Text
 
