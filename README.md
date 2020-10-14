@@ -63,3 +63,5 @@
 
 - [Read: 01](Node-Ecosystem.md): Node Ecosystem, TDD, CI/CD
 
+- [Read: 02](Classes-Inheritance.md): Classes, Inheritance, Functions
+
