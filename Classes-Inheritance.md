@@ -1,5 +1,5 @@
 
-# Readings: Classes, Inheritance, Functional P...
+# Readings: Classes, Inheritance, Functional Programming
 
 1.	Why would you want to run JavaScript code outside of a browser? 
 2.	What is the difference between a module and a package?
