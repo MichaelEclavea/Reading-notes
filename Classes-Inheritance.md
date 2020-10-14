@@ -8,12 +8,12 @@
 	
 	
 	
-1. To interact with the machine of the user. This would be necessary if creating an actual desktop application. 
-2.  A package is a collection of modules/files wrapped together.
+ - To interact with the machine of the user. This would be necessary if creating an actual desktop application. 
+ - A package is a collection of modules/files wrapped together.
       A module is essentially a single js file. 
-3. NPM is a JS library of open source-code for developers to or could use. 
-4. 
-module.exports = function (count, legs) {
+- NPM is a JS library of open source-code for developers to or could use. 
+ 
+- module.exports = function (count, legs) {
   this.count = count;
   this.legs = legs;
 }
