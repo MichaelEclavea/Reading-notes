@@ -7,6 +7,7 @@
 4.	Provide code snippets showing 3 different ways to export a function from a node module
 	
 	
+	
 1. To interact with the machine of the user. This would be necessary if creating an actual desktop application. 
 2.  A package is a collection of modules/files wrapped together.
       A module is essentially a single js file. 
