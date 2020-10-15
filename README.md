@@ -65,3 +65,5 @@
 
 - [Read: 02](Classes-Inheritance.md): Classes, Inheritance, Functions
 
+- [Read: 03](Data-Modeling-&-NoSQL.md): Data Modeling & NoSQL Databases
+
