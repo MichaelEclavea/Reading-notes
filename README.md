@@ -69,3 +69,5 @@
 
 - [Read: 04](Advanced-Mongo&Mongoose.md): Advanced Mongo/Mongoose
 
+- [Read: 05](HTTP-&-REST.md): HTTP & REST
+
