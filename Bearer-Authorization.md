@@ -1,0 +1,5 @@
+# Bearer Authorization
+
+Steps
+
+- 
