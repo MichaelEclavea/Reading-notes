@@ -81,4 +81,4 @@
 
 - [Read: 11](Bearer-Authorization.md) Bearer Authorization
 
--[Read: 13](OAuth.md) OAuth
+- [Read: 13](OAuth.md) OAuth
