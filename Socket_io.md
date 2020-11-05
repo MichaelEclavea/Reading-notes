@@ -4,7 +4,7 @@
 - So when data is being sent, the network can spread out data traffic evenly without it getting bogged down all at once. 
 
 2. UDP is often refereed to as a connectionless protocol. Why is this?
-- User Datagram Protocol (UDP) is a Transport Layer protocol. UDP is a part of Internet Protocol suite, referred as UDP/IP suite. Unlike TCP, it is unreliable and connectionless protocol. ... User Datagram Protocol (UDP) is more efficient in terms of both latency and bandwidth.[Source](https://www.geeksforgeeks.org/user-datagram-protocol-udp/#:~:text=User%20Datagram%20Protocol%20(UDP)%20is,is%20unreliable%20and%20connectionless%20protocol.&text=User%20Datagram%20Protocol%20(UDP)%20is%20more%20efficient%20in%20terms,of%20both%20latency%20and%20bandwidth.)
+- User Datagram Protocol (UDP) is a Transport Layer protocol. UDP is a part of Internet Protocol suite, referred as UDP/IP suite. Unlike TCP, it is unreliable and connectionless protocol. ... User Datagram Protocol (UDP) is more efficient in terms of both latency and bandwidth.                                    [Source](https://www.geeksforgeeks.org/user-datagram-protocol-udp/#:~:text=User%20Datagram%20Protocol%20(UDP)%20is,is%20unreliable%20and%20connectionless%20protocol.&text=User%20Datagram%20Protocol%20(UDP)%20is%20more%20efficient%20in%20terms,of%20both%20latency%20and%20bandwidth.)
 
 3. Can a socket server application have multiple socket connections?
 - yes.that is what makes it so powerful and useful. 
