@@ -18,7 +18,7 @@
 ## Vocabulary Terms:
 
 - OSI Model: The OSI Model (Open Systems Interconnection Model) is a conceptual framework used to describe the functions of a networking system. The OSI model characterizes computing functions into a universal set of rules and requirements in order to support interoperability between different products and software.
-  [Source](https://www.forcepoint.com/cyber-edu/osi-model#:~:text=The%20OSI%20Model%20(Open%20Systems,between%20different%20products%20and%20software.)
+ [Source](https://www.forcepoint.com/cyber-edu/osi-model#:~:text=The%20OSI%20Model%20(Open%20Systems,between%20different%20products%20and%20software.)
 
 - TCP Model: The TCP/IP Reference Model. TCP/IP means Transmission Control Protocol and Internet Protocol. It is the network model used in the current Internet architecture as well. ... These protocols describe the movement of data between the source and destination or the internet. They also offer simple naming and addressing schemes.
 [Source](https://www.studytonight.com/computer-networks/tcp-ip-reference-model#:~:text=Key%20Terms-,The%20TCP%2FIP%20Reference%20Model,current%20Internet%20architecture%20as%20well.&text=These%20protocols%20describe%20the%20movement,simple%20naming%20and%20addressing%20schemes.)
