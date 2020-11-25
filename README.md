@@ -102,3 +102,5 @@
 - [Read: 23](Routing.md) Routing
 
 - [Read: 24](Hooks_API.md) Hooks API 
+
+- [Read: 25](Custom_Hooks.md) Custom Hooks
