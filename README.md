@@ -104,3 +104,5 @@
 - [Read: 24](Hooks_API.md) Hooks API 
 
 - [Read: 25](Custom_Hooks.md) Custom Hooks
+
+- [Read: 26](Context_API.md) Context API
