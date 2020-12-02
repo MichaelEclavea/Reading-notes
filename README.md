@@ -106,3 +106,5 @@
 - [Read: 25](Custom_Hooks.md) Custom Hooks
 
 - [Read: 26](Context_API.md) Context API
+
+- [Read: 27](Application_State_Redux.md) Application State With Redux
