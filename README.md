@@ -108,3 +108,5 @@
 - [Read: 26](Context_API.md) Context API
 
 - [Read: 27](Application_State_Redux.md) Application State With Redux
+
+- [Read: 28](Redux_Combined_Reducers.md) Redux Combined Reducers
