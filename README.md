@@ -114,3 +114,5 @@
 - [Read: 29](Redux_Async.md) Redux - Asynchronous Actions
 
 - [Read: 30](Redux_Additional_Topics.md) Redux - Additional Topics
+
+- [Read: 31](Graphs.md) Graphs
