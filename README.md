@@ -120,3 +120,5 @@
 - [Read: 32](Ethics.md) Ethics 
 
 - [Read: 33](ReactNative.md) React Native
+
+- [Read: 34](OpenSource.md) Open Source
